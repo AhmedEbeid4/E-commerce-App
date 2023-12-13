@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "383174395209",
+    "firebase_url": "https://e-commerce-db933-default-rtdb.firebaseio.com",
+    "project_id": "e-commerce-db933",
+    "storage_bucket": "e-commerce-db933.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383174395209:android:f72009515899b123dc4698",
+        "android_client_info": {
+          "package_name": "com.ebeid.ecommerce.e_commerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2IOLHaGKVDv3FeV3m665soJ9IeGaKZKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
