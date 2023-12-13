@@ -1,5 +1,7 @@
 # E-Commerce App
 
+## [Project Video](https://drive.google.com/file/d/144yjTsMZighTVKr5TlmKhzhHw5guJXRy/view)
+
 ## Overview
 
 Dynamic e-commerce simulation with Firebase-powered real-time interactions. This Flutter prototype
@@ -65,8 +67,6 @@ authentication.
 <img src="https://github.com/AhmedEbeid4/Weather-App/assets/90563044/01fd5c87-40af-47c3-9f48-2ae4053ed71d" height="500" width="250"/>
 &nbsp;&nbsp;
 <img src="https://github.com/AhmedEbeid4/Weather-App/assets/90563044/6528175e-547d-4f2d-b00b-98e41c60fe58" height="500" width="250"/>
-&nbsp;&nbsp;
-<img src="https://github.com/AhmedEbeid4/Weather-App/assets/90563044/c187d08e-ef50-4894-8370-31e2758f2e35" height="600" width="250"/>
 &nbsp;&nbsp;
 <img src="https://github.com/AhmedEbeid4/Weather-App/assets/90563044/c26ff945-f9f3-4224-8af2-5a954854430e" height="500" width="250"/>
 &nbsp;&nbsp;
